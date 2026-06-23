@@ -2,6 +2,9 @@
 <h3 align="center">B.Tech CSE Student at GLA University | AI/ML & IoT Enthusiast</h3>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
+</p>
 
 ## 🌟 About Me  
 - 🎓 Specialization: **Artificial Intelligence, Machine Learning & IoT**  
