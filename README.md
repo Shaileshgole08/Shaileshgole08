@@ -59,19 +59,16 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Status  
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshgole08&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 🚀 Projects  
-- 🛩️ **AI Drone** – Arduino Nano + NRF24L01 + MPU6050 with PID stabilization  
+## 🚀 Projects   
 - 🏠 **Home Automation (IoT)** – Smart automation system using sensors  
 - 🎥 **Deepfake Video Detection** – ResNeXt50-based model  
-- 🤖 **AI Career Path Predictor**  
-- 🎙️ **AI Interview Mentor**  
 - 🔄 **AI Content Repurposing Agent**  
 
 ---
@@ -83,8 +80,7 @@
 
 ---
 
-## 🏆 Certifications  
-- ✅ Power BI – Coursera  
+## 🏆 Certifications   
 - ✅ Python – Hyperskill  
 - ✅ Java – Infosys  
 - ✅ Excel – Skillcred  
